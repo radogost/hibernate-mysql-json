@@ -1,0 +1,4 @@
+CREATE TABLE menus (
+  menu_id INTEGER PRIMARY KEY AUTO_INCREMENT,
+  dish    JSON
+);
